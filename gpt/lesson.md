@@ -59,7 +59,7 @@
 现在接触的各个群里，总是能看见很多人对GPT的评价，但是到底多少人是真的用过了GPT去客观评价了呢？
 
 
-![recommend](./assets/recommend.jpg)
+![recommend](./assets/recommend.png)
 
 
 对于一个写文章的人来说，一定要抛出一些劲爆的内容，很多时候根本不在乎真实，但是我们生活的世界是真实的！
